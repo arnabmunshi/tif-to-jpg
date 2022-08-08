@@ -1,4 +1,4 @@
-## Convert TIF to JPF
+## Convert TIF to JPG
 
 ### clone the repo
 
